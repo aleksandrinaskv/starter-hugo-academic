@@ -39,9 +39,9 @@
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
+        - title: Postdoctoral Researcher
+          company: Department of Psychology, McGill University
+          company_url: 'www.mogillab.com'
           company_logo: org-gc
           location: California
           date_start: '2021-01-01'
