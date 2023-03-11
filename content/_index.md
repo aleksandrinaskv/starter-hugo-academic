@@ -47,15 +47,15 @@ sections:
       title: Skills
       items:
         - name: R
-          description: 90%
+          description:
           icon: r-project
           icon_pack: fab
         - name: Statistics
-          description: 100%
+          description: 
           icon: chart-line
           icon_pack: fas
-        - name: Photography
-          description: 10%
+        - name: fMRI data analysis
+          description: 
           icon: camera-retro
           icon_pack: fas
   - block: experience
