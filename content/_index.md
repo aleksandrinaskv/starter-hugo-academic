@@ -42,7 +42,7 @@
         - title: Postdoctoral Researcher
           company: Department of Psychology, McGill University
           company_url: 'www.mogillab.com'
-          company_logo: org-gc
+          company_logo: mcgill
           location: California
           date_start: '2021-01-01'
           date_end: ''
