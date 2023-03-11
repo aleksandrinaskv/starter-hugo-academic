@@ -8,7 +8,7 @@ last_name: Skvortsova
 
 # Status emoji
 status:
-  icon: :full_moon:
+  icon:full_moon:
 
 # Is this the primary user of the site?
 superuser: true
