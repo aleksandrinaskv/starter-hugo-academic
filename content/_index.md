@@ -26,12 +26,12 @@ sections:
           icon_pack: fas
         - name: Qualitative analysis
           description: 
-          icon: fa-brain
-          icon_pack: fab
+          icon: brain
+          icon_pack: fas
         - name: fMRI data analysis
           description: 
           icon: brain
-          icon_pack: fab
+          icon_pack: fal
   - block: experience
     content:
       title: Experience
