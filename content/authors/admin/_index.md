@@ -81,6 +81,5 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Welcome to my personal website! I am a health psychologist and postdoctoral researcher at the Health, Medical and Neuropsychology unit of Leiden University and a member of the Center for Interdisciplinary Placebo Studies Leiden. My research interests lie in exploring the ways in which our expectations and previous experiences can impact our health. In addition to my research, I am also a strong advocate for open science and currently serve as the project manager for the Replications and Reversals project at FORRT (Framework for Open and Reproducible Research Training). I also a part-time grant writer for the non-profit organization Health & Help, which provides essential medical care to underserved communities in Central America. I am passionate about using my skills and knowledge to advance science and make a positive impact in the world.
 {style="text-align: justify;"}
