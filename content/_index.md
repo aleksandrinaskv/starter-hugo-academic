@@ -24,6 +24,10 @@ sections:
           description: 
           icon: chart-line
           icon_pack: fas
+        - name: Qualitative analysis
+          description: 
+          icon: fa-brain
+          icon_pack: fab
         - name: fMRI data analysis
           description: 
           icon: brain
