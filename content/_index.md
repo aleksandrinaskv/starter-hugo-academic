@@ -26,7 +26,7 @@ sections:
           icon_pack: fas
         - name: fMRI data analysis
           description: 
-          icon: f5dc
+          icon: brain
           icon_pack: fab
   - block: experience
     content:
