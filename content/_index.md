@@ -12,7 +12,36 @@ sections:
       username: admin
       # Override your bio text from `authors/admin/_index.md`?
       text:
-  
+  - block: features
+    content:
+      title: Skills
+      items:
+        - name: Experimental designs
+          description: 
+          icon: flask
+          icon_pack: fas
+        - name: Project oversight
+          description: 
+          icon: list-check
+          icon_pack: fas
+        - name: Grant writing
+          description: 
+          icon: pen
+          icon_pack: fas
+        - name: Statistics and Programming
+          description:
+          icon: r-project
+          icon_pack: fab
+        - name: fMRI data analysis
+          description: 
+          icon: brain
+          icon_pack: fas
+        - name: Qualitative analysis
+          description: 
+          icon: clipboard-question
+          icon_pack: fas
+
+
   - block: experience
     content:
       title: Experience
@@ -48,37 +77,6 @@ sections:
           description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
-- block: features
-    content:
-      title: Skills
-      items:
-        - name: Experimental designs
-          description: 
-          icon: flask
-          icon_pack: fas
-        - name: Project oversight
-          description: 
-          icon: list-check
-          icon_pack: fas
-        - name: Grant writing
-          description: 
-          icon: pen
-          icon_pack: fas
-        - name: Statistics and Programming
-          description:
-          icon: r-project
-          icon_pack: fab
-        - name: fMRI data analysis
-          description: 
-          icon: brain
-          icon_pack: fas
-        - name: Qualitative analysis
-          description: 
-          icon: clipboard-question
-          icon_pack: fas
-
-
-
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
