@@ -26,8 +26,8 @@ sections:
           icon_pack: fas
         - name: fMRI data analysis
           description: 
-          icon: camera-retro
-          icon_pack: fas
+          icon: f5dc
+          icon_pack: fab
   - block: experience
     content:
       title: Experience
