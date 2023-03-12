@@ -16,11 +16,19 @@ sections:
     content:
       title: Skills
       items:
-        - name: Statistics
+        - name: Experimental designs
           description: 
-          icon: chart-line
+          icon: flask
           icon_pack: fas
-        - name: R
+        - name: Project oversight
+          description: 
+          icon: list-check
+          icon_pack: fas
+        - name: Grant writing
+          description: 
+          icon: pen
+          icon_pack: fas
+        - name: Statistics and Programming
           description:
           icon: r-project
           icon_pack: fab
@@ -32,14 +40,7 @@ sections:
           description: 
           icon: clipboard-question
           icon_pack: fas
-        - name: Experimental designs
-          description: 
-          icon: flask
-          icon_pack: fas
-        - name: Grant writing
-          description: 
-          icon: pen
-          icon_pack: fas
+
 
   - block: experience
     content:
