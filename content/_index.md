@@ -21,11 +21,7 @@
           icon_pack: fas
         - name: fMRI data analysis
           description: 
-          icon: brain-circuit
-          icon_pack: fas
-        - name: Qualiative Research Methods
-          description: 
-          icon: clipboard-question
+          icon: camera-retro
           icon_pack: fas
   - block: experience
     content:
