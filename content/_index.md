@@ -34,7 +34,7 @@ sections:
           icon_pack: fas
         - name: Experimental designs
           description: 
-          icon: chart-network
+          icon: flask
           icon_pack: fas
         - name: Grant writing
           description: 
