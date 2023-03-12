@@ -1,25 +1,25 @@
 ---
 # Display name
-title: Aleksandrina Skvortsova
+title: Alice Wu 吳恩達
 
 # Full name (for SEO)
-first_name: Aleksandrina
-last_name: Skvortsova
+first_name: Alice
+last_name: Wu
 
 # Status emoji
 status:
-  icon: :full_moon:
+  icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral Researcher in Health Psychology
+role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Leiden University
-    url: www.leidenuniv.nl
+  - name: Stanford University
+    url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
