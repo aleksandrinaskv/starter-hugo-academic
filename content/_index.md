@@ -16,22 +16,31 @@ sections:
     content:
       title: Skills
       items:
-        - name: R
-          description:
-          icon: r-project
-          icon_pack: fab
         - name: Statistics
           description: 
           icon: chart-line
           icon_pack: fas
-        - name: Qualitative analysis
-          description: 
-          icon: brain
-          icon_pack: fas
+        - name: R
+          description:
+          icon: r-project
+          icon_pack: fab
         - name: fMRI data analysis
           description: 
           icon: brain
-          icon_pack: far
+          icon_pack: fas
+        - name: Qualitative analysis
+          description: 
+          icon: clipboard-question
+          icon_pack: fas
+        - name: Experimental designs
+          description: 
+          icon: chart-network
+          icon_pack: fas
+        - name: Grant writing
+          description: 
+          icon: pen
+          icon_pack: fas
+
   - block: experience
     content:
       title: Experience
