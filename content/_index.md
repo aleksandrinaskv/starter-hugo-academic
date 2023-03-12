@@ -31,7 +31,7 @@ sections:
         - name: fMRI data analysis
           description: 
           icon: brain
-          icon_pack: fal
+          icon_pack: far
   - block: experience
     content:
       title: Experience
