@@ -85,7 +85,7 @@ sections:
           location: Leiden, the Netherlands
           date_start: '2015-11-01'
           date_end: '2020-11-01'
-          description: Wrote a PhD thesis and supervised multiple master and bachelor students.
+          description: Wrote a PhD thesis on classical conditioning of oxytocin responses; supervised multiple master and bachelor students.
       columns: '2'
   - block: accomplishments
     content:
