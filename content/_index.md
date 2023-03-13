@@ -55,9 +55,9 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Postdoctoral researcher
-          company: Leiden University
+          company: leiden
           company_url: ''
-          company_logo: leiden
+          company_logo: org-gc
           location: California
           date_start: '2021-01-01'
           date_end: ''
