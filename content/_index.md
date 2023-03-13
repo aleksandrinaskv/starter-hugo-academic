@@ -110,6 +110,14 @@ sections:
       items:
         - certificate_url: 
           date_end: ''
+          date_start: '2022-01-01'
+          description: Replications & Reversals project aims to build a crowd-driven database that describes the replications of widely known effects across social sciences.
+          organization: Framework for Open and Reproducible Research Training (FORRT)
+          organization_url: https://forrt.org/reversals/
+          title: Project Manager
+          url: 'https://forrt.org/reversals/'
+        - certificate_url: 
+          date_end: ''
           date_start: '2022-11-01'
           description: Health & Help is a small charity organization which provides essential medical care to underserved communities in Central America. I am leading the grant writing team, searching for the applicable grats and preparing the grant applications.
           organization: Health & Help
