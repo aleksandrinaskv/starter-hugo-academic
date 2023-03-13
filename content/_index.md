@@ -44,7 +44,7 @@ sections:
 
   - block: experience
     content:
-      title: Experience
+      title: Academic path
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
