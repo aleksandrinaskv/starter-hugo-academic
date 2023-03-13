@@ -85,7 +85,7 @@ sections:
           location: Leiden, the Netherlands
           date_start: '2015-11-01'
           date_end: '2020-11-01'
-          description: Taught electronic engineering and researched semiconductor physics.
+          description: I wrote a PhD thesis The link between placebo effect and the neuroendocrine system: the role of oxytocin.
     design:
       columns: '2'
   - block: accomplishments
