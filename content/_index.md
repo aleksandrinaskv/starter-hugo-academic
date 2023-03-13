@@ -114,6 +114,7 @@ sections:
           description: ''
           organization: Health & Help
           organization_url: https://www.he-he.org
+          company_logo: radboud
           title: Grant Writer
           url: ''
         - certificate_url: https://www.edx.org
