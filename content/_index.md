@@ -61,12 +61,7 @@ sections:
           location: Leiden, the Netherlands
           date_start: '2023-03-01'
           date_end: ''
-          description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
+          description: A scientific unievrsity partner of TNO in the project "Preparedness for pandemics". 
         - title: Postdoctoral Researcher
           company: McGill University
           company_url: 'www.mogilab.ca'
