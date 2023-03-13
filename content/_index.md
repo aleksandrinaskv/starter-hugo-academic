@@ -41,6 +41,7 @@ sections:
           icon: clipboard-question
           icon_pack: fas
 
+
   - block: experience
     content:
       title: Experience
@@ -53,12 +54,12 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Postdoctoral Researcher 
-          company: Leiden University
-          company_url: 'www.leidenuniv.nl'
-          company_logo: leiden
-          location: Leiden, the Netherlands
-          date_start: '2023-04-01'
+        - title: CEO
+          company: GenCoin
+          company_url: ''
+          company_logo: org-gc
+          location: California
+          date_start: '2021-01-01'
           date_end: ''
           description: |2-
               Responsibilities include:
