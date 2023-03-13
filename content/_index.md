@@ -63,7 +63,7 @@ sections:
           date_end: ''
           description: I work as a scientific university partner of TNO (Netherlands Organisation for Applied Scientific Research) in the consortium  "Preparedness for pandemics". 
         - title: Postdoctoral Researcher
-          company: McGill University
+          company: McGill University, Alan Edwards Centre for Research on Pain
           company_url: 'www.mogilab.ca'
           company_logo: mcgill
           location: Montreal, Canada
