@@ -116,7 +116,7 @@ sections:
           organization_url: https://www.he-he.org
           company_logo: radboud
           title: Grant Writer
-          url: ''
+          url: 'https://www.he-he.org'
         - certificate_url: https://www.edx.org
           date_end: ''
           date_start: '2021-01-01'
