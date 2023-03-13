@@ -114,7 +114,7 @@ sections:
           description: ''
           organization: Health & Help
           organization_url: https://www.he-he.org
-          title: Neural Networks and Deep Learning
+          title: Grant Writer
           url: ''
         - certificate_url: https://www.edx.org
           date_end: ''
