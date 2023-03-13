@@ -128,10 +128,10 @@ sections:
         - certificate_url: 
           date_end: ''
           date_start: '2022-01-01'
-          description: Touch Medical Intelligence is a start-up creating a digical AI health assistant. I consult the company on the the scientifically proven behavioral health interventions. 
+          description: Touch Medical Intelligence is a start-up creating a digital AI health assistant. I consult the company on the the scientifically proven behavioral health interventions. 
           organization: Touch Medical Intelligence
           organization_url: https://www.touchmedical.ca
-          title: Consultant
+          title: Scientific Advisor
           url: https://www.touchmedical.ca
     design:
       columns: '2'
