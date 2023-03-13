@@ -64,7 +64,7 @@ sections:
           description: I work as a scientific university partner of TNO (Netherlands Organisation for Applied Scientific Research) in the consortium  "Preparedness for pandemics". 
         - title: Postdoctoral Researcher
           company: McGill University, Alan Edwards Centre for Research on Pain
-          company_url: 'www.mogilab.ca'
+          company_url: 'https://www.mcgill.ca/painresearch'
           company_logo: mcgill
           location: Montreal, Canada
           date_start: '2021-03-01'
@@ -77,7 +77,7 @@ sections:
           location: Leiden, the Netherlands
           date_start: '2020-11-01'
           date_end: '2021-03-01'
-          description: Taught electronic engineering and researched semiconductor physics.
+          description: I taught working groups for the course "Health psychology"; lead a randomized controlled trial on the conditioning of insulin responses in diabetes type-2; and worked on the knowledge exploration for Diabetes Fonds.
         - title: PhD candidate
           company: Leiden University
           company_url: 'www.leidenuniv.nl'
