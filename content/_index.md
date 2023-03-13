@@ -54,12 +54,12 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Postdoctoral researcher
-          company: leiden
-          company_url: ''
+        - title: Postdoctoral Researcher
+          company: Leiden University
+          company_url: 'www.leidenuniv.nl'
           company_logo: leiden
-          location: California
-          date_start: '2021-01-01'
+          location: Leiden, the Netherlands
+          date_start: '2023-03-01'
           date_end: ''
           description: |2-
               Responsibilities include:
