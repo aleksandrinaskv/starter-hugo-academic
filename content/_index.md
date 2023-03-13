@@ -95,10 +95,10 @@ sections:
           date_end: '2015-06-01'
           description:
       columns: '2'
-  - block: other roles
+  - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: Other roles
+      title: 'Accomplish&shy;ments'
       subtitle:
       # Date format: https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -108,13 +108,13 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: 
+        - certificate_url: https://www.coursera.org
           date_end: ''
-          date_start: '2022-11-01'
+          date_start: '2021-01-25'
           description: ''
-          organization: Health & Help
-          organization_url: https://www.he-he.org
-          title: Grant writer
+          organization: Coursera
+          organization_url: https://www.coursera.org
+          title: Neural Networks and Deep Learning
           url: ''
         - certificate_url: https://www.edx.org
           date_end: ''
