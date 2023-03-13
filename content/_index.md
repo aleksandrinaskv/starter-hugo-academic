@@ -78,14 +78,7 @@ sections:
           date_start: '2020-11-01'
           date_end: '2021-03-01'
           description: I taught working groups for the course "Health psychology"; lead a randomized controlled trial on the conditioning of insulin responses in diabetes type-2; and worked on the knowledge exploration for Diabetes Fonds.
-        - title: PhD candidate
-          company: Leiden University
-          company_url: 'www.leidenuniv.nl'
-          company_logo: leiden
-          location: Leiden, the Netherlands
-          date_start: '2015-11-01'
-          date_end: '2020-11-01'
-          description: Taught electronic engineering and researched semiconductor physics.
+
     design:
       columns: '2'
   - block: accomplishments
