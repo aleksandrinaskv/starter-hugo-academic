@@ -111,15 +111,14 @@ sections:
         - certificate_url: 
           date_end: ''
           date_start: '2022-11-01'
-          description: ''
+          description: 'Health & Help is a small charity organization which provides essential medical care to underserved communities in Central America. I am leading the grant writing team, searching for the applicable grats and preparing the grant applications.
           organization: Health & Help
           organization_url: https://www.he-he.org
-          company_logo: radboud
           title: Grant Writer
           url: 'https://www.he-he.org'
-        - certificate_url: https://www.edx.org
+        - certificate_url: 
           date_end: ''
-          date_start: '2021-01-01'
+          date_start: '2022-07-01'
           description: Formulated informed blockchain models, hypotheses, and use cases.
           organization: edX
           organization_url: https://www.edx.org
