@@ -110,10 +110,10 @@ sections:
       items:
         - certificate_url: 
           date_end: ''
-          date_start: '2021-01-25'
+          date_start: '2022-11-01'
           description: ''
-          organization: Coursera
-          organization_url: https://www.coursera.org
+          organization: Health & Help
+          organization_url: https://www.he-he.org
           title: Neural Networks and Deep Learning
           url: ''
         - certificate_url: https://www.edx.org
