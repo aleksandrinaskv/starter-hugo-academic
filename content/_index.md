@@ -69,7 +69,7 @@ sections:
           location: Montreal, Canada
           date_start: '2021-03-01'
           date_end: '2023-03-01'
-          description: Taught electronic engineering and researched semiconductor physics.
+          description: As a part of the Rubicon fellowship from NWO, I investigated the neuroendocrine mechanisms of nocebo hyperalgesia in human and animal models.
         - title: Postdoctoral Researcher
           company: Leiden University
           company_url: 'www.leidenuniv.nl'
