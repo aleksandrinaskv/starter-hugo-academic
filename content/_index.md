@@ -85,7 +85,7 @@ sections:
           location: Leiden, the Netherlands
           date_start: '2015-11-01'
           date_end: '2020-11-01'
-          description: Wrote a PhD thesis "The link between placebo effect and the neuroendocrine system: the role of oxytocin".
+          description: Wrote a PhD thesis.
       columns: '2'
   - block: accomplishments
     content:
