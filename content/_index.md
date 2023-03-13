@@ -86,6 +86,14 @@ sections:
           date_start: '2015-11-01'
           date_end: '2020-11-01'
           description: Wrote a PhD thesis on classical conditioning of oxytocin responses; supervised multiple master and bachelor students.
+        - title: Research Master in Behavioural Sciences
+          company: RadboudUniversity
+          company_url: 'www.ru.nl'
+          company_logo: leiden
+          location: Nijmegen, the Netherlands
+          date_start: '2013-09-01'
+          date_end: '2015-06-01'
+          description:
       columns: '2'
   - block: accomplishments
     content:
