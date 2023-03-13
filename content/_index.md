@@ -67,13 +67,29 @@ sections:
               * Analysing
               * Modelling
               * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
+        - title: Postdoctoral Researcher
+          company: McGill University
+          company_url: 'www.mogilab.ca'
           company_logo: mcgill
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
+          location: Montreal, Canada
+          date_start: '2021-03-01'
+          date_end: '2023-03-01'
+          description: Taught electronic engineering and researched semiconductor physics.
+        - title: Postdoctoral Researcher
+          company: Leiden University
+          company_url: 'www.leidenuniv.nl'
+          company_logo: leiden
+          location: Leiden, the Netherlands
+          date_start: '2020-11-01'
+          date_end: '2021-03-01'
+          description: Taught electronic engineering and researched semiconductor physics.
+        - title: PhD candidate
+          company: Leiden University
+          company_url: 'www.leidenuniv.nl'
+          company_logo: leiden
+          location: Leiden, the Netherlands
+          date_start: '2015-11-01'
+          date_end: '2020-11-01'
           description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
