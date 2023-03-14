@@ -1,13 +1,16 @@
 ---
-title: "An example journal article"
+title: "Can contagious itch be affected by positive and negative suggestions? "
 authors:
 - admin
-- Robert Ford
+- Stefanie Meeuwis
+- Antoinette van Laarhoven
+- Henning Holle
+- Andrea Evers 
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-date: "2015-09-01T00:00:00Z"
-doi: ""
+date: "2022-07-01T00:00:00Z"
+doi: "10.1111/exd.14663"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
