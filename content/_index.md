@@ -179,14 +179,7 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Placebo & Nocebo in Endocrine system
-          tag: Placebo & Nocebo in Endocrine system
-        - name: Placebo & Nocebo in Pain
-          tag: Placebo & Nocebo in Pain
-        - name: Diabetes and Metabolism
-          tag: Diabetes and Metabolism
-        - name: Replications & Reversals
-          tag: Replications & Reversals
+
 
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
