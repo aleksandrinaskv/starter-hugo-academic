@@ -1,6 +1,8 @@
 ---
 title: Physiological Mechanisms of Placebo & Nocebo
 subtitle: ""
+tags:
+  - Placebo
 date: 2023-03-14T20:27:40.715Z
 draft: false
 featured: false
