@@ -179,6 +179,9 @@ sections:
       buttons:
         - name: All
           tag: '*'
+        - name: Placebo
+          tag: example
+
 
 
     design:
