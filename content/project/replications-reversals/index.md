@@ -1,6 +1,8 @@
 ---
 title: Replications & Reversals
 date: 2023-03-14T20:37:26.062Z
+tags:
+  - FORRT
 draft: false
 featured: false
 links:
