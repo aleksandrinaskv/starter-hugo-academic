@@ -4,18 +4,18 @@ title: Olfactory exposure to late-pregnant and lactating mice causes
 publication_types:
   - "2"
 authors:
-  - Rosen
-  - Lima
-  - Chen
-  - Nejade
-  - Zhao
-  - Nemoto
-  - Toprak
+  - Sarah Rosen
+  - Lucas Lima
+  - Civia Chen
+  - Rachel Nejade
+  - Mengyi Zhao
+  - Wataru Nemoto
+  - Ece Toprak
   - admin
-  - Tansley
-  - Zumbusch
-  - Sotocinal
-  - Mogil
+  - Shannon Tansley
+  - Alicia Zumbusch
+  - Susana Sotocinal
+  - Jeffrey Mogil
 doi: p.eabi9366
 publication: Science Advances
 abstract: In an attempt to improve reproducibility, more attention is being paid
