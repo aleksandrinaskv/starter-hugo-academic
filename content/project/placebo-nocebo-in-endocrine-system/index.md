@@ -2,6 +2,8 @@
 title: Placebo Effects in the Endocrine System
 date: 2023-03-14T17:24:29.274Z
 summary: ""
+tags:
+  - Placebo
 draft: false
 featured: false
 image:
