@@ -7,9 +7,9 @@ links:
   - url: www.he-he.org
     name: Health & Help website
   - url: https://www.gofundme.com/f/buy-an-ambulance-to-help-more-people
-    name: Sopport us
+    name: Support us
 image:
-  filename: featured
+  filename: h-h.jpeg
   focal_point: Smart
   preview_only: false
 ---
