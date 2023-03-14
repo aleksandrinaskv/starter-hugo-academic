@@ -16,6 +16,7 @@ authors:
   - Zumbusch
   - Sotocinal
   - Mogil
+journal: Science Advances
 doi: p.eabi9366
 draft: false
 featured: false
