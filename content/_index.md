@@ -181,6 +181,9 @@ sections:
           tag: '*'
         - name: Placebo Effects in the Endocrine System
           tag: Placebo
+        - name: Physiological Mechanisms of Placebo & Nocebo
+          tag: Physiology
+
 
 
 
