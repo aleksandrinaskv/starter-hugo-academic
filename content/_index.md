@@ -179,8 +179,8 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Placebo
-          tag: example
+        - name: Placebo Effects in the Endocrine System
+          tag: Placebo
 
 
 
