@@ -1,5 +1,5 @@
 ---
-title: "Can contagious itch be affected by positive and negative suggestions?"
+title: "Can contagious itch be affected by positive and negative suggestions? "
 authors:
 - admin
 - Stefanie Meeuwis
@@ -22,13 +22,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Experimental Dermatology*"
+publication: "*Experimental Dermatology*(1)"
 publication_short: ""
 
-abstract: Contagious itch can be evoked by observing people scratching. Verbal suggestions about to-be-received itch can influence itch intensity, as shown by placebo research, but it is unknown whether this extends to contagious itch. The current study aimed to replicate prior findings that listening to scratching and rubbing sounds elicits contagious itch, and to investigate whether suggestions can modulate this process. Healthy participants (n = 140) received positive or negative suggestions about itch in response to the sounds (aimed to decrease or increase expected itch, respectively), or no specific suggestions as a control. Participants listened to a number of audio fragments with scratching and rubbing sounds. The amount of expected itch as well as itch sensation after each audio fragment were measured by self-report. Suggestions had no effect on the expected itch. Both rubbing and scratching sounds significantly elicited itch in all groups. Scratching sounds induced more itch than rubbing sounds exclusively in the control group. These findings indicate that short suggestions might be not effective enough to modify the expectations of people regarding contagious itch. Furthermore, suggestions modulate contagious itch to some degree, but not in the hypothesized direction. Potential similarities and differences in the neurobiological mechanisms of contagious itch and nocebo effects are discussed.
+abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
 # Summary. An optional shortened abstract.
-#summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
 - Source Themes
@@ -36,19 +36,19 @@ featured: false
 
 # links:
 # - name: ""
-   url: https://onlinelibrary.wiley.com/doi/10.1111/exd.14663
-#url_pdf: 
-#url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_dataset: 'osf.io/muqcj'
-#url_poster: ''
-#url_project: ''
-#url_slides: ''
-#url_source: ''
-#url_video: ''
+#   url: ""
+url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-#image:
+image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
   focal_point: ""
   preview_only: false
@@ -65,7 +65,7 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-#slides: example
+slides: example
 ---
 
 {{% callout note %}}
