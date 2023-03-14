@@ -1,6 +1,6 @@
 ---
 title: Olfactory exposure to late-pregnant and lactating mice causes
-  stress-induced analgesia in male mice.
+  stress-induced analgesia in male mice
 publication_types:
   - "2"
 authors:
