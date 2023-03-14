@@ -179,10 +179,10 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Placebo & Nocebo in endocrine system
-          tag: Placebo & Nocebo in endocrine system
-        - name: Placebo & Nocebo in pain
-          tag: Placebo & Nocebo in pain
+        - name: Placebo & Nocebo in Endocrine system
+          tag: Placebo & Nocebo in Endocrine system
+        - name: Placebo & Nocebo in Pain
+          tag: Placebo & Nocebo in Pain
         - name: Diabetes and Metabolism
           tag: Diabetes and Metabolism
         - name: Replications & Reversals
