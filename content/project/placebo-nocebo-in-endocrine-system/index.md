@@ -9,7 +9,7 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-The placebo effect is a well-studied phenomenon in the context of self-reported symptoms such as pain and depression. However, my research focuses on understanding how the placebo effect can impact physiological markers of health, specifically in the neuroendocrine system.
+ My main scientific interest is understanding mind-body interaction, and placebo effect is the perfect example of it. My research focuses on understanding how the placebo effect can impact physiological markers of health, specifically in the neuroendocrine system. 
 
 To study the placebo effect in the endocrine system, we utilize a pharmacological conditioning experimental design with both learning and testing phases. In the learning phase, we combine an active medication that affects hormonal levels with a conditioned stimulus, such as a specific scent. In the testing phase, we present participants with the scent alone and measure their physiological response to it.
 
