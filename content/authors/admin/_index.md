@@ -8,13 +8,13 @@ last_name: Skvortsova
 
 # Status emoji
 status:
-  icon: 🌕
+  icon: 🍓
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral Researcher in Health Psychology
+role: Researcher in Health Psychology
 
 # Organizations/Affiliations to show in About widget
 organizations:
