@@ -135,15 +135,15 @@ sections:
           url: https://www.touchmedical.ca
     design:
       columns: '2'
-  - block: collection
-    id: posts
-    content:
-      title: Recent Posts
-      subtitle: 'Center for Interdisciplinary Placebo Studies Leiden Opening'
-      text: ''
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 5
-      # Filter on criteria
+#  - block: collection
+#    id: posts
+#    content:
+#      title: Recent Posts
+#      subtitle: ''
+#      text: ''
+#      # Choose how many pages you would like to display (0 = all pages)
+#      count: 5
+#      # Filter on criteria
 #      filters:
 #        folders:
 #          - post
