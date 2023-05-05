@@ -61,7 +61,7 @@ sections:
           location: Leiden, the Netherlands
           date_start: '2023-03-01'
           date_end: ''
-          description: I work as a scientific university partner of TNO (Netherlands Organisation for Applied Scientific Research) in the consortium  "Preparedness for pandemics". 
+          description: I work as a scientific university partner of TNO (Netherlands Organisation for Applied Scientific Research) in the consortium  "Preparedness for pandemics". Additionally, I am involved in several research projects on placebo and nocebo effects. 
         - title: Postdoctoral Researcher
           company: McGill University, Alan Edwards Centre for Research on Pain
           company_url: 'https://www.mcgill.ca/painresearch'
