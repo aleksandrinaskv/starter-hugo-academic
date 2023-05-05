@@ -81,7 +81,7 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am a postdoctoral researcher at the Health, Medical and Neuropsychology unit of Leiden University, former Rubicon fellow at Alan Edwards Centre for Research on Pain, and a member of the Center for Interdisciplinary Placebo Studies Leiden. 
+I am a postdoctoral researcher at the Health, Medical and Neuropsychology unit of Leiden University, former Rubicon fellow at Alan Edwards Centre for Research on Pain of McGill University, and a member of the Center for Interdisciplinary Placebo Studies Leiden. 
 My research interests lie in exploring the ways in which our expectations and previous experiences can impact our health. I am a strong advocate for open science and work as the project manager for the Replications and Reversals project at Framework for Open and Reproducible Research Training. In addition to my scientific work, I serve as a part-time grant writer for the non-profit organization Health & Help, which provides essential medical care to underserved communities in Central America. 
 I am passionate about using my skills and knowledge to advance science and make a positive impact in the world.
 
