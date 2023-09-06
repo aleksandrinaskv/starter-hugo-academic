@@ -53,7 +53,7 @@ first_name: Aleksandrina
 email: ""
 ---
 I am a postdoctoral researcher at the Health, Medical and Neuropsychology unit of Leiden University and a member of the Center for Interdisciplinary Placebo Studies Leiden. 
-I do experimental research on the role of psychological factors such as expectations, stress, and memory on health outcomes. Additionally, I engage in policy research, specifically collaborating with the Netherlands Organisation for Applied Scientific Research (TNO) on pandemic preparedness of the Netherlands. Moreover, I possess a strong interest in health equity and actively contribute as a part-time grant writer for Health & Help, a non-profit organization dedicated to providing essential medical care to underserved communities in Central America.
-I am passionate about using my skills and knowledge to advance science and make a positive impact in the world.
+I do experimental research on how psychological factors such as expectations, stress, and memory affect the effectiveness of various treatments. Additionally, I engage in policy research, specifically collaborating with the Netherlands Organisation for Applied Scientific Research (TNO) on pandemic preparedness of the Netherlands. Moreover, I possess a strong interest in health equity and actively contribute as a part-time grant writer for Health & Help, a non-profit organization dedicated to providing essential medical care to underserved communities in Central America.
+I am passionate about using my skills and knowledge to advance science and make a positive impact in the world. 
 
 {style="text-align: justify;"}
