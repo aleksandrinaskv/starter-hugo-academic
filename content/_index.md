@@ -187,8 +187,8 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Placebo Effects in the Endocrine System
-          tag: Placebo
+        - name: Doctor-Patient Communication when Breaking Bad News
+          tag: Communication
         - name: Physiological Mechanisms of Placebo & Nocebo
           tag: Physiology
         - name: Replications & Reversals
