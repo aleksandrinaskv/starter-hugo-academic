@@ -54,6 +54,14 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Assistant Professor
+          company: Leiden University
+          company_url: 'www.leidenuniv.nl'
+          company_logo: leiden
+          location: Leiden, the Netherlands
+          date_start: '2024-02-01'
+          date_end: ''
+          description: I teach several courses to bachelor and master Psychology students (e.g., Health and Medical psychology, Clinical Neuropsychology, Innovations in Neuropsychology). As well, as I do research on placebo and nocebo effects in food metabolims and communication in serious illness.
         - title: Postdoctoral Researcher
           company: Leiden University
           company_url: 'www.leidenuniv.nl'
