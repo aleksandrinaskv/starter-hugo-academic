@@ -1,11 +1,12 @@
 ---
 title: Aleksandrina Skvortsova
-role: Researcher in Health Psychology
+role: Assistent Professor
 bio: null
 interests:
   - Health expectations
   - Placebo & Nocebo effects
   - Chronic conditions
+  - Communication
   - Open Science
   - Phylantrophy
 social:
@@ -52,8 +53,7 @@ highlight_name: true
 first_name: Aleksandrina
 email: ""
 ---
-I am a postdoctoral researcher at the Health, Medical and Neuropsychology unit of Leiden University and a member of the Center for Interdisciplinary Placebo Studies Leiden. 
-I do experimental research on how psychological factors such as expectations, stress, and memory affect the effectiveness of various treatments. Additionally, I engage in policy research, specifically collaborating with the Netherlands Organisation for Applied Scientific Research (TNO) on pandemic preparedness of the Netherlands. Moreover, I possess a strong interest in health equity and actively contribute as a part-time grant writer for Health & Help, a non-profit organization dedicated to providing essential medical care to underserved communities in Central America.
-I am passionate about using my skills and knowledge to advance science and make a positive impact in the world. 
+I am an Assistant Professor at the Health, Medical and Neuropsychology unit of Leiden University and a member of the Center for Interdisciplinary Placebo Studies Leiden. I do experimental research on the impact of psychological factors such as expectations, stress, and memory on health and treatment efficacy. With a focus on placebo and nocebo effects, I investigates their role in food metabolism, hunger regulation, and pain perception. Additionally, my research extends to examining how communication with healthcare professionals influences patients' health. Finally, I engage in policy research, specifically collaborating with the Netherlands Organisation for Applied Scientific Research (TNO) on pandemic preparedness of the Netherlands. 
+Moreover, I possess a strong interest in health equity and actively contribute as a part-time grant writer for Health & Help, a non-profit organization dedicated to providing essential medical care to underserved communities in Central America. I am passionate about using my skills and knowledge to advance science and make a positive impact in the world.
 
 {style="text-align: justify;"}
