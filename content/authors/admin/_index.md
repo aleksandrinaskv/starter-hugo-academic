@@ -1,6 +1,6 @@
 ---
 title: Aleksandrina Skvortsova
-role: Assistent Professor
+role: Assistant Professor
 bio: null
 interests:
   - Health expectations
