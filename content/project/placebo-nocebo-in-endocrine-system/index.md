@@ -1,22 +1,21 @@
 ---
-title: Placebo Effects in the Endocrine System
+title: Doctor-Patient Communication when Breaking Bad News
+subtitle: VR-Talks, ERASMUS+ Project
 date: 2023-03-14T17:24:29.274Z
 summary: ""
-tags:
-  - Placebo
 draft: false
 featured: false
+tags:
+  - Communication;Serious illness;Bad news;Virtual reality
+external_link: https://www.linkedin.com/company/vr-talks/
 image:
-  filename: endocrine-system.jpg
+  filename: vr-talks-logo.png
   focal_point: Smart
   preview_only: false
 ---
- My main scientific interest is understanding mind-body interaction, and placebo effect is the perfect example of it. My research focuses on understanding how the placebo effect can impact physiological markers of health, specifically in the neuroendocrine system. 
+<!--StartFragment-->
 
-To study the placebo effect in the endocrine system, we utilize a pharmacological conditioning experimental design with both learning and testing phases. In the learning phase, we combine an active medication that affects hormonal levels with a conditioned stimulus, such as a specific scent. In the testing phase, we present participants with the scent alone and measure their physiological response to it.
+\
+Breaking bad news is a crucial aspect of healthcare communication, demanding empathy and sensitivity. To equip healthcare providers with the necessary skills, we're developing a communication training program funded by Erasmus Plus. This virtual reality (VR) training will simulate realistic scenarios where trainees interact with virtual patients, allowing them to practice delivering bad news in a controlled environment. Our consortium, including partners such as 3dsense s.r.o., Univerzita Karlova, Universiteit Leiden, University College Cork, Hanover Medical School, National University of Ireland, Cork, Universidade Catolica Portuguesa, and Ludwig Maximilian University Munich, aims to enhance healthcare education and patient care through this innovative approach.
 
-I have conducted two large randomized controlled trials investigating whether it is possible to condition oxytocin responses in healthy volunteers, and insulin responses in both healthy volunteers and individuals with type-2 diabetes. The results of these studies have been published in 2019 and 2022.
-
-Moving forward, my research will continue to focus on investigating how pharmacological conditioning can be utilized to enhance the effectiveness of standard medications in clinical settings.
-
-I am open to collaborations on this topic!
+<!--EndFragment-->
