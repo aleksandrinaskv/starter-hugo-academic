@@ -6,7 +6,7 @@ summary: ""
 draft: false
 featured: false
 tags:
-  - Communication;Serious illness;Bad news;Virtual reality
+  - Communication
 external_link: https://www.linkedin.com/company/vr-talks/
 image:
   filename: vr-talks-logo.png
