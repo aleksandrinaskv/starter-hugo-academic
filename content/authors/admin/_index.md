@@ -54,7 +54,7 @@ first_name: Aleksandrina
 email: ""
 ---
 I am an Assistant Professor at the Health, Medical and Neuropsychology unit of Leiden University, the Netherlands. 
-I do experimental research on the impact of psychological factors such as expectations, stress, and memory on health and treatment efficacy. With a focus on placebo and nocebo effects, I investigates their role in food metabolism, hunger regulation, and pain perception. Additionally, my research extends to examining how communication with healthcare professionals influences patients' health. Finally, I engage in policy research, specifically collaborating with the Netherlands Organisation for Applied Scientific Research (TNO) on pandemic preparedness of the Netherlands. 
+I do experimental research on the impact of psychological factors such as expectations, stress, and memory on health and treatment efficacy. With a focus on placebo and nocebo effects, I investigate their role in food metabolism, hunger regulation, and pain perception. Additionally, my research extends to examining how communication with healthcare professionals influences patients' health. Finally, I engage in policy research, specifically collaborating with the Netherlands Organisation for Applied Scientific Research (TNO) on pandemic preparedness of the Netherlands. 
 Moreover, I possess a strong interest in health equity and actively contribute as a part-time grant writer for Health & Help, a non-profit organization dedicated to providing essential medical care to underserved communities in Central America. I am passionate about using my skills and knowledge to advance science and make a positive impact in the world.
 
 {style="text-align: justify;"}
