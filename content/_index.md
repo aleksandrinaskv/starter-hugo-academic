@@ -184,17 +184,17 @@ sections:
       # To show all items, set `tag` to "*".
       # To filter by a specific tag, set `tag` to an existing tag name.
       # To remove the toolbar, delete the entire `filter_button` block.
-      buttons:
-        - name: All
-          tag: '*'
-        - name: Doctor-Patient Communication when Breaking Bad News
-          tag: Communication
-        - name: Physiological Mechanisms of Placebo & Nocebo
-          tag: Physiology
-        - name: Replications & Reversals
-          tag: FORRT
-        - name: Health & Help
-          tag: Health
+      # buttons:
+      #  - name: All
+      #    tag: '*'
+      #  - name: Medical Communication when Breaking Bad News
+      #    tag: Communication
+      #  - name: Physiological Mechanisms of Placebo & Nocebo
+      #    tag: Physiology
+      #  - name: Replications & Reversals
+      #    tag: FORRT
+      #  - name: Health & Help
+      #    tag: Health
 
 
 
