@@ -1,5 +1,5 @@
 ---
-title: Doctor-Patient Communication when Breaking Bad News
+title: Medical Communication when Breaking Bad News
 subtitle: VR-Talks, ERASMUS+ Project
 date: 2023-03-14T17:24:29.274Z
 summary: ""
