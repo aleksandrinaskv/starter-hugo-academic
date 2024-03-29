@@ -1,5 +1,5 @@
 ---
-title: Expectancy interventions for metabolic disorders
+title: Psychological Interventions for Metabolic Disorders
 date: 2024-03-29T12:48:04.719Z
 draft: false
 featured: false
