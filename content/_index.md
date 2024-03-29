@@ -252,24 +252,24 @@ sections:
 #      title: Popular Topics
 #    design:
 #      columns: '2'
-  - block: contact
-    id: contact
-    content:
-      title: Contact
-      subtitle:
-      text: |-
-        Are you a student searching for a research internship or thesis placement? Or a researcher interested in one of the topics I am working on? I am always happy to collaborate! 
-       Contact (add or remove contact options as necessary)
-      email: a.skvortsova@fsw.leidenuniv.nl
+#  - block: contact
+#    id: contact
+#    content:
+#      title: Contact
+#      subtitle:
+#      text: |-
+#        Are you a student searching for a research internship or thesis placement? Or a researcher interested in one of the topics I am working on? I am always happy to collaborate! 
+#       Contact (add or remove contact options as necessary)
+#      email: a.skvortsova@fsw.leidenuniv.nl
 #      phone: 888 888 88 88
 #      appointment_url: 'https://calendly.com'
-      address:
-        street: Wassenaarseweg 52
-        city: Leiden
+#      address:
+#        street: Wassenaarseweg 52
+#        city: Leiden
 #        region: CA
-        postcode: '2333 AK'
-        country: the Netherlands
-        country_code: NL
+#        postcode: '2333 AK'
+#        country: the Netherlands
+#        country_code: NL
 #      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
 #      office_hours:
 #        - 'Monday 10:00 to 13:00'
@@ -287,16 +287,16 @@ sections:
 #          icon_pack: fas
 #          name: Zoom Me
 #          link: 'https://zoom.com'
-       Automatically link email and phone or display as text?
-      autolink: true
-       Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-           Enable CAPTCHA challenge to reduce spam?
-          captcha: false#
-    design:
-      columns: '2'
+#       Automatically link email and phone or display as text?
+#      autolink: true
+#       Email form provider
+#      form:
+#        provider: netlify
+#        formspree:
+#          id:
+#        netlify:
+#           Enable CAPTCHA challenge to reduce spam?
+#          captcha: false#
+#    design:
+#      columns: '2'
 ---
