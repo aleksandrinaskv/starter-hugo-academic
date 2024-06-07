@@ -7,7 +7,10 @@ draft: false
 featured: false
 tags:
   - Communication
-external_link: https://www.linkedin.com/company/vr-talks/
+external_link: ""
+links:
+  - url: https://www.vr-talks.com/
+    name: VR-Talks website
 image:
   filename: vr-talks-logo.png
   focal_point: Smart
